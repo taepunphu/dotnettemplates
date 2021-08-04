@@ -1,4 +1,4 @@
-# Examle Nuget Packages dotnettemplates
+# Example Nuget Packages dotnettemplates
 
 step 1 -> Create Project using dotnet new {shortname} <br />
 step 2 -> in Project Directory -> Create folder [.template.config] -> in .template.config create file [template.json] and then add code hear<br />
