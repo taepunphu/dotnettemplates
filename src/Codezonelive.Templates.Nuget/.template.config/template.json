@@ -1,0 +1,22 @@
+{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "Kiattisak Phanphu" ,
+    "classifications": ["Codezonelive", "classLib"],
+    "identity": "Codezonelive.Templates.Nuget",
+    "groupIdentity": "Codezonelive.Templates.Nuget",
+    "name": "Codezonelive xNuget",
+    "shortName": "xnuget",
+    "tags": {
+        "language": "C#",
+        "type": "project"
+    },
+    "sourceName": "Codezonelive.Templates.Nuget",
+    "preferNameDirectory": true,
+    "sources": [
+        {
+            "rename": {
+                "_gitignore": ".gitignore"
+            }
+        }
+    ]
+}
